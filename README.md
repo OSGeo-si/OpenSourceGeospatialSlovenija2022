@@ -1,7 +1,7 @@
-# OpenSourceGeospatialSlovenija2022
+# Open Source Geospatial Slovenija 2022
 Urednika: Tomaž Šturm in Alen Mangafić
 
-# OSGeo Slovenija: 1. konferenca
+# Open Source Geospatial Slovenija: 1. konferenca
 ## 2022-10-13 @ 8:30
 Gozdarski inštitut Slovenije,  
 Večna pot 2  
